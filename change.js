@@ -1,1 +1,1 @@
-console.log('add if miss up 2');
+console.log('add if miss up');
